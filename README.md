@@ -7,4 +7,12 @@ Once abnormal symptoms are detected, the system automatically triggers a non-inv
 
 The system provides a real-time, automated solution to manage varicose veins, reduce complications, and improve patient comfort—especially useful for elderly, diabetic, or post-surgical patients.
 
-<img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/5d70a143-8d54-483c-9d0d-f1831a89823c" />
+<img width="1252" height="700" alt="Screenshot 2025-07-14 114556" src="https://github.com/user-attachments/assets/47410b09-a84d-4a6e-95ac-f3b81c4a8c51" />
+<img width="846" height="697" alt="Screenshot 2025-07-14 114611" src="https://github.com/user-attachments/assets/ae87cd42-7ba0-4fda-a74c-82800a85b0e6" />
+<img width="1200" height="658" alt="Screenshot 2025-07-14 114624" src="https://github.com/user-attachments/assets/e00a3090-e24c-4437-aa11-450759a65062" />
+<img width="1236" height="673" alt="Screenshot 2025-07-14 114636" src="https://github.com/user-attachments/assets/6bf4932d-0c91-447a-abcf-fb8df9ccdd5b" />
+
+
+
+
+
