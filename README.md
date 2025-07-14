@@ -1,4 +1,5 @@
-# Body-Area-Network-for-Swollen-Vaircose-Veins-Detection-and-Automated-TreatmentThis project focuses on developing a smart healthcare system using a Body Area Network (BAN) to detect and treat swollen varicose veins. Varicose veins occur when blood pools in the veins due to weak or damaged valves, causing swelling and pain, especially in the legs.
+# Body-Area-Network-for-Swollen-Vaircose-Veins-Detection-and-Automated-Treatment
+This project focuses on developing a smart healthcare system using a Body Area Network (BAN) to detect and treat swollen varicose veins. Varicose veins occur when blood pools in the veins due to weak or damaged valves, causing swelling and pain, especially in the legs.
 
 The system uses wearable sensors such as pressure sensors, temperature sensors, and blood flow monitors to continuously collect real-time data from the patient’s leg area. This data is analyzed using an on-body microcontroller with built-in AI algorithms to detect signs of varicose vein swelling early.
 
